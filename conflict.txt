@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is content from f1
+=======
+This is content from f2
+>>>>>>> f2
